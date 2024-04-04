@@ -2,7 +2,7 @@
 Data-driven support for the best city in Pittsburgh.
 
 Team name:
-    No stinky, 
+    Burgh Data Detectives
     
 Team members and their email addresses:
     Bridget Brinkman (brb351@pitt.edu)
@@ -15,4 +15,4 @@ Description and links to the datasets used:
     Steven - Sidewalk to Street "Walkability" Ratio - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
 
 A one sentence overview of your repository:
-    Data-driven report using metrics related to cleanliness, lawfulness, and sidewalk to street "walkability" ratio to make a compelling argument for the best city in Pittsburgh.
+    Data-driven report using metrics related to police arrests, illegal dump site locations, and sidewalk to street "walkability" ratio that aims to make a compelling argument for the best city in Pittsburgh.
