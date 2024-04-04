@@ -1,5 +1,5 @@
 # cmpinf-0010-final-project
-Data-driven support for the best city in Pittsburgh.
+Data-driven support for the best neighborhood in Pittsburgh.
 
 Team name:
     Burgh Data Detectives
@@ -15,4 +15,4 @@ Description and links to the datasets used:
     Steven - Sidewalk to Street "Walkability" Ratio - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
 
 A one sentence overview of your repository:
-    Data-driven report using metrics related to police arrests, illegal dump site locations, and sidewalk to street "walkability" ratio that aims to make a compelling argument for the best city in Pittsburgh.
+    Data-driven report using metrics related to police arrests, illegal dump site locations, and sidewalk to street "walkability" ratio that aims to make a compelling argument for the best neighborhood in Pittsburgh.
