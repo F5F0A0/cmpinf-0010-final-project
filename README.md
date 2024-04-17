@@ -14,5 +14,5 @@ Description and links to the datasets used:
     Paul - Allegheny County Illegal Dump Sites (https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites)
     Steven - City of Pittsburgh Playgrounds - https://data.wprdc.org/dataset/playgrounds
 
-A one sentence overview of your repository:
+An overview:
     Data-driven report using metrics related to police arrests, illegal dump site locations, and amount of playgrounds that aims to make a compelling argument for the best neighborhood in Pittsburgh.
