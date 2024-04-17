@@ -12,7 +12,7 @@ Team members and their email addresses:
 Description and links to the datasets used:
     Bridget - Pittsburgh Police Arrest Data (https://data.wprdc.org/dataset/arrest-data)
     Paul - Allegheny County Illegal Dump Sites (https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites)
-    Steven - Sidewalk to Street "Walkability" Ratio - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
+    Steven - City of Pittsburgh Playgrounds - https://data.wprdc.org/dataset/playgrounds
 
 A one sentence overview of your repository:
-    Data-driven report using metrics related to police arrests, illegal dump site locations, and sidewalk to street "walkability" ratio that aims to make a compelling argument for the best neighborhood in Pittsburgh.
+    Data-driven report using metrics related to police arrests, illegal dump site locations, and amount of playgrounds that aims to make a compelling argument for the best neighborhood in Pittsburgh.
